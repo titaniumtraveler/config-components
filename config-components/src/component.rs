@@ -1,4 +1,5 @@
 pub mod installed;
+pub mod link;
 
 pub trait Component {
     type Error;
